@@ -1,0 +1,100 @@
+/* WP Text Replacer Admin Styles
+   Version: 1.1.1
+   Last Updated: 2024 */
+.wptr-container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.wptr-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.wptr-section {
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding: 20px;
+    border: 1px solid #e9ecef;
+}
+
+.wptr-rules-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.wptr-rule {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: #f1f3f5;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.wptr-rule input {
+    flex-grow: 1;
+    padding: 8px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+.wptr-btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.wptr-btn:hover {
+    background-color: #0056b3;
+}
+
+.wptr-btn-danger {
+    background-color: #dc3545;
+}
+
+.wptr-btn-danger:hover {
+    background-color: #a71d2a;
+}
+
+.wptr-form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wptr-form-group label {
+    font-weight: bold;
+    color: #495057;
+}
+
+.wptr-form-group select,
+.wptr-form-group input[type="number"] {
+    padding: 8px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+@media (max-width: 600px) {
+    .wptr-rule {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 600px) {
+    .wptr-rule {
+        flex-direction: column;
+    }
+}
+ 

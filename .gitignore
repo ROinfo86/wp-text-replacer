@@ -1,0 +1,28 @@
+# Файлы и директории WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+
+# Файлы IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Временные файлы
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Зависимости композера
+vendor/
+composer.lock
+
+# Файлы сборки
+node_modules/
+npm-debug.log
+yarn-error.log 

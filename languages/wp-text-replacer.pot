@@ -1,0 +1,53 @@
+# Copyright (C) 2024 ROinfo
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Version: 1.1.1\n"
+"Report-Msgid-Bugs-To: https://github.com/roinfo/wp-text-replacer/issues\n"
+"Last-Translator: ROinfo <support@m2w.com.ua>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+
+# Основные строки плагина
+msgid "WP Text Replacer"
+msgstr ""
+
+msgid "Professional WordPress plugin for dynamic text replacement on your website in real-time"
+msgstr ""
+
+# Строки административной панели
+msgid "Text Replacement Settings"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Replace with"
+msgstr ""
+
+msgid "Add Rule"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+# Настройки поиска
+msgid "Search Mode"
+msgstr ""
+
+msgid "Once on page load"
+msgstr ""
+
+msgid "Continuous search"
+msgstr ""
+
+msgid "Number of iterations"
+msgstr ""
+
+# Сообщения безопасности
+msgid "You do not have sufficient permissions to perform this action."
+msgstr "" 
